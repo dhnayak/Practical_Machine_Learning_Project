@@ -1,7 +1,7 @@
 ---
 title: "Practical_Machine_Learning"
-author: "Gyan GM"
-date: "April 17, 2016"
+author: "Dhirendra Kumar Nayak"
+date: "May 22, 2016"
 output: html_document
 fig_width: 8.5
 fig_height: 8.5
